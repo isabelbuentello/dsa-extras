@@ -32,7 +32,7 @@ class Solution{
         }
 };
 
-int main(){
+int twosum(){
     Solution solution;
 
     // Test case 1: [2,7,11,15], target = 9
